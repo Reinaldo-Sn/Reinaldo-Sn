@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Me chamo Reinaldo Santos, tenho 22 anos e sou desenvolvedor Full Stack com foco em Python. Sou formado pela EBAC (Escola Britânica de Artes Criativas & Tecnologia), onde adquiri uma base sólida no desenvolvimento de aplicações completas, atuando tanto no front-end quanto no back-end.
+Olá! Me chamo Reinaldo Santos, tenho 22 anos e sou desenvolvedor Full Stack com foco em Python. Sou certificado pela EBAC (Escola Britânica de Artes Criativas & Tecnologia), onde adquiri uma base sólida no desenvolvimento de aplicações completas, atuando tanto no front-end quanto no back-end.
 
 Tenho interesse em criar soluções eficientes, escaláveis e bem estruturadas, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Aqui no GitHub, compartilho projetos, estudos e experiências que fazem parte da minha jornada como desenvolvedor.
 
