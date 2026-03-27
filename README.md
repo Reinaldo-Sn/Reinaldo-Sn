@@ -10,7 +10,7 @@ Seja bem-vindo ao meu perfil! 🚀
 
 ---
 
-### 👽 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img
     align = "left"
@@ -141,7 +141,7 @@ Seja bem-vindo ao meu perfil! 🚀
 <br/>
 <br/>
 
-### 👽 Estatíticas
+### 📊 Estatíticas
 
 <img
     align = "left"
